@@ -75,7 +75,7 @@ func whoWon(userOption string, computerOption string) {
 		"Rock_vs_Rock": map[string]string{
 			"ascii_art": `
     _______             _______
----'   ____)           (____   '---ma
+---'   ____)           (____   '---
       (_____)         (_____)
       (_____)   Vs.   (_____)
       (____)           (____)
